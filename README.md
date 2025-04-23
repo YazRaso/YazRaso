@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi there I am
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=DA18FF&width=435&lines=Yazdan+Rasoulzadeh)](https://git.io/typing-svg)
+
+## Nice to meet you 😊
+
+[Check out my latest project](https://github.com/YazRaso/placeholder)
+
+## Contact
+Feel free to contact me on linkedin
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YazRaso/)
 
 <!--
 **YazRaso/YazRaso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
