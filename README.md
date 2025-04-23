@@ -5,10 +5,12 @@
 
 
 ## Contact
-Feel free to contact me <br>
-Linkedin <br>
+Feel free to contact me
+<br>
+Linkedin
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yaz-raso/)
-Email <br>
+<br>
+Email
 [![Email](https://img.shields.io/badge/Email-blue?logo=gmail&logoColor=white)](mailto:yrasoulz@uwaterloo.ca)
 
 
