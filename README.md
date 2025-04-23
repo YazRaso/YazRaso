@@ -1,5 +1,5 @@
 <h1>Hi, I am</h1>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F709D6&width=435&lines=Yazdan+Rasoulzadeh" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F709D6&width=435&lines=Yazdan+Rasoulzadeh" alt="Typing SVG" />
 <h3>Software Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yazraso&label=Profile%20views&color=0e75b6&style=flat" alt="yazraso" /> </p>
