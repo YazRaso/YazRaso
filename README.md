@@ -17,6 +17,4 @@
 <a href="https://linkedin.com/in/yaz-raso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yaz-raso" height="30" width="40" /></a>
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yazraso&" alt="yazraso" /></p>
-
 <!---Add Resume later--->
