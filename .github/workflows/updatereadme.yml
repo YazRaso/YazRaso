@@ -27,10 +27,10 @@ jobs:
           cat README.md
 
       - name: Commit and push if changed
-      env:
-        TOKEN: ${{ secrets.GH_PAT }}
-      run: |
-        git config user.name "YazRaso Bot"
-        git config user.email "actions@github.com"
-        git remote set-url origin https://x-access-token:${TOKEN}@github.com/YazRaso/YazRaso.git
-        git diff --quiet || (git commit -am "Update latest project link" && git push)
+        env:
+          TOKEN: ${{ secrets.GH_PAT }}
+        run: |
+          git config user.name "YazRaso Bot"
+          git config user.email "actions@github.com"
+          git remote set-url origin https://x-access-token:${TOKEN}@github.com/YazRaso/YazRaso.git
+          git diff --quiet || (git commit -am "Update latest project link" && git push)
