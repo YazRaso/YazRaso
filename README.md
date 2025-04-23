@@ -4,7 +4,7 @@
 
 ## Nice to meet you 😊
 
-[Check out my latest project](https://github.com/YazRaso/placeholder)
+[Check out my latest project](https://github.com/YazRaso/placeholder) <!--latest-project-->
 
 ## Contact
 Feel free to contact me on linkedin
