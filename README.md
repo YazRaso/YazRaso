@@ -1,4 +1,4 @@
-<h1>Hey 😊, the name's </h1>
+<h1>The name's</h1>
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F709D6&width=435&lines=Yazdan+Rasoulzadeh" alt="Typing SVG" />
 <h3>Software Enthusiast</h3>
 
