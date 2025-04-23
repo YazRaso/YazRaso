@@ -5,8 +5,12 @@
 
 
 ## Contact
-Feel free to contact me on linkedin
+Feel free to contact me
+Linkedin
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yaz-raso/)
+Email
+[![Email](https://img.shields.io/badge/Email-blue?logo=gmail&logoColor=white)](mailto:yrasoulz@uwaterloo.ca)
+
 
 <!--
 **YazRaso/YazRaso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
