@@ -2,8 +2,8 @@ name: Update README with Latest Repo
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Runs daily at midnight UTC
-  workflow_dispatch:      # Allows manual trigger
+    - cron: '0 0 * * *'
+  workflow_dispatch:
 
 jobs:
   update-readme:
@@ -18,7 +18,7 @@ jobs:
       - name: Fetch latest repo
         run: |
           LATEST_REPO=$(curl -s https://api.github.com/users/YazRaso/repos?sort=updated | jq -r '.[0].name')
-          sed -i '/<!--latest-project-->/c\[Check out my latest project](https://github.com/YazRaso/'"$LATEST_REPO"') README.md
+          sed -i '/<!--latest-project-->/c\[Check out my latest project](https://github.com/YazRaso/'"$LATEST_REPO"') <!--latest-project-->' README.md
 
       - name: Commit and push if changed
         run: |
