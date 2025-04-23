@@ -1,0 +1,33 @@
+name: Update README with Latest Repo
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up jq
+        run: sudo apt-get update && sudo apt-get install -y jq
+
+      - name: Get latest updated public repo
+        run: |
+          LATEST_REPO=$(curl -s "https://api.github.com/users/YazRaso/repos?per_page=100&sort=updated" | jq -r '[.[] | select(.private == false)] | .[0].name')
+          echo "Latest public repo: $LATEST_REPO"
+          if [ -z "$LATEST_REPO" ]; then
+            echo "No repo found, exiting."
+            exit 1
+          fi
+          sed -i "s|\\[Check out my latest project\\](.*) <!--latest-project-->|[Check out my latest project](https://github.com/YazRaso/$LATEST_REPO) <!--latest-project-->|" README.md
+          cat README.md
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git diff --quiet || (git commit -am "Update latest project link" && git push)
