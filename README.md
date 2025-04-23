@@ -8,7 +8,7 @@
 
 ## Contact
 Feel free to contact me on linkedin
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YazRaso/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yaz-raso/)
 
 <!--
 **YazRaso/YazRaso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
