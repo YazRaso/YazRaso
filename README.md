@@ -2,9 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=DA18FF&width=435&lines=Yazdan+Rasoulzadeh)](https://git.io/typing-svg)
 
-## Nice to meet you 😊
 
-[Check out my latest project](https://github.com/YazRaso/placeholder) <!--latest-project-->
 
 ## Contact
 Feel free to contact me on linkedin
