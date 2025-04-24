@@ -1,7 +1,5 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F709D6&width=435&lines=Yazdan+Rasoulzadeh" alt="Typing SVG" />
 
-<h3>Software Enthusiast</h3>
-
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDY0bXg4cTA0Mnpwenp4d3p3dzNjNjM1azU4czd2MjYxNzU4eDluNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/6ib6KPmkeAjDTxMxij/giphy.gif" alt="Cutie Patotie Penguin that does tech" />
 
 # 💫 About Me:
