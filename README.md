@@ -3,7 +3,7 @@
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDY0bXg4cTA0Mnpwenp4d3p3dzNjNjM1azU4czd2MjYxNzU4eDluNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/6ib6KPmkeAjDTxMxij/giphy.gif" alt="Cutie Patotie Penguin that does tech" />
 
 # 💫 About Me:
-🔭 I’m currently working on Making a https server from scratch<br><br>🌱 I’m currently learning Redis, React Native<br><br>👯 I’m looking to collaborate on App Development<br><br>💬 Ask me about System Design Case Studies<br><br>
+🔭 I’m currently working on creating an AI accouting copilot<br><br>🌱 I’m currently learning Jmeter, Django<br><br>👯 I’m looking to collaborate on AI/Systems Development<br><br>💬 Ask me about AI/Systems/CI-CD<br><br>
 
 
 ## 🌐 Socials:
