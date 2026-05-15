@@ -13,7 +13,7 @@ Currently: Director of Research @ Waterloo Blockchain
   orderbook data; combines pmxt off-chain snapshots with onchain block scanning for open interest
 - **Calcite** — Containerized AI bookkeeping agent (Rasa DIET, Docker, CI/CD via GitHub Actions)
 - **Tameio** — Proof-of-concept onchain banking system on Monad with a Python rate engine
-  and ML risk scoring for dynamic loan approval
+  and risk scoring for dynamic loan approval
 
 ---
 
