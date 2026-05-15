@@ -1,6 +1,6 @@
 # Yazdan Rasoulzadeh
 
-CS & Business @ Waterloo · ML systems and quantitative finance
+CS & Business @ Waterloo · ML systems and Software Engineering
 
 Previously: ML Engineering Intern @ Rocket Innovation Studio  
 Currently: Director of Research @ Waterloo Blockchain
